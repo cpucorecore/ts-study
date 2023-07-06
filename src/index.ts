@@ -1,6 +1,6 @@
 import testHeap from "./heap"
-import testNumber from "./number"
-import testSymbol from "./symbol"
+import testNumber from "./types/number"
+import testSymbol from "./types/symbol"
 
 testHeap()
 
